@@ -27,7 +27,6 @@ private void playing()
         {
             Sound1.Play();
             hasPlayed_1 = true;
-            //Smae=t
         }
         if (hasPlayed_1 && !hasPlayed_2 && !Sound1.isPlaying)
         {
